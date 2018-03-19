@@ -11,6 +11,7 @@
 * [The Software Concordance: A User Interface for Advanced
 Software Documents](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.2777&rep=rep1&type=pdf)
 * [On the typography of flight-deck documentation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930010781.pdf)
+* [NASA: Computer Software Documentation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19730007435.pdf)
 
 ## Books
 * [Handbook of Technical Writing, Ninth Edition](https://www.amazon.com/dp/0312575122/?tag=jacobian-20)
